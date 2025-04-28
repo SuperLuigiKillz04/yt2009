@@ -1,4 +1,4 @@
-const test_alwayssign = true;
+const test_alwayssign = false;
 
 const fetch = require("node-fetch")
 const fs = require("fs")
